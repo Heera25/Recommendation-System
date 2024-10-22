@@ -1,12 +1,12 @@
 
-Introduction:
+**Introduction:**
  	In the realm of food and nutrition, meal planning often presents a daunting challenge, requiring individuals to balance various factors such as taste, nutrition, dietary restrictions, and personal preferences. This complexity can lead to stress, time-consuming meal preparation, and difficulties in adhering to dietary goals. Moreover, there is a lack of inclusive social media platforms that cater to individuals of all ages, genders, and abilities, depriving them of a supportive community to share culinary experiences and insights.
 To address these pressing issues, our team embarked on the development of ChefGPT—an innovative AI-based interactive chatbot and a dedicated food community social media platform equipped with an enhanced recommendation system. With a mission to provide personalized assistance in cooking and foster an inclusive food community, ChefGPT leverages cutting-edge technologies to offer tailored recommendations and facilitate meaningful connections among users.
 
 Problem Domain: Food & Nutrition
 
 
-Problem Statement:
+**Problem Statement:**
 
 To develop an AI-based interactive chatbot for personalized assistance in cooking along with a specially dedicated food community social media site with an enhanced collaborative filtering-based recommendation models compatible with all users irrespective of age, gender and disabilities
 Problem 1:
@@ -18,7 +18,7 @@ Development Environment:
 HTML, CSS,NodeJS, LLM, FastAPI/Python, Firebase, Ngrok
 
 
-Steps in building recommendation system: 
+**Steps in building recommendation system: **
 	
 The following are the steps involved in building a food recommendation system.
 
@@ -76,7 +76,7 @@ The provided FastAPI code establishes a RESTful API for deploying a machine lear
 
 
 
-Comparison and Inference: 
+**Comparison and Inference: **
 
 Measure Score 
 K Means
@@ -105,7 +105,7 @@ Table 1: Comparison of evaluation metrics (RMSE and MAE)
 The proposed system talks about combining the results of K Means clustering and Neural Collaborative filtering along with popularity-based recommendation. So we can compare each model’s RMSE and MAE with the combined average. We can infer from Table 1 that averaging the results yields very low RMSE and MAE values and using the enhanced collaborative model gives better results for making recommendations.
 
 
-Sustainable Goals Targeted
+**Sustainable Goals Targeted**
 
 1. SDG 2: Zero Hunger
 2. SDG 3: Good Health and Well-being
@@ -113,7 +113,7 @@ Sustainable Goals Targeted
 4. SDG 10: Reduced Inequalities
 5. SDG 17: Partnerships for the Goals
 
-Target Audience
+**Target Audience**
 
 Individuals facing time constraints in meal planning and preparation.
 Consumers with specific dietary requirements or allergies.
